@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "5595f32c40e746dbf4c2bffda528789b35a90ac2f2da97b70b807f8831a5c8eb"
+build_start_time: [1644316015, 11290073]
+build_end_time: [1644316015, 512546062]
+inputs:
+  "/Users/alex.torres/go/src/github.com/alexDtorres/workshop/internal/xc/Packages/Main/Tests/MainTests/MainTests.swift": [1644316013, 866889]

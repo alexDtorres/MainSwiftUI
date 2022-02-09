@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/alex.torres/go/src/github.com/alexDtorres/workshop/internal/xc/Packages/Main/.build/x86_64-apple-macosx/debug/Main.build/master.swiftdeps"
+  },
+  "/Users/alex.torres/go/src/github.com/alexDtorres/workshop/internal/xc/Packages/Main/Sources/Main/Main.swift": {
+    "dependencies": "/Users/alex.torres/go/src/github.com/alexDtorres/workshop/internal/xc/Packages/Main/.build/x86_64-apple-macosx/debug/Main.build/Main.d",
+    "object": "/Users/alex.torres/go/src/github.com/alexDtorres/workshop/internal/xc/Packages/Main/.build/x86_64-apple-macosx/debug/Main.build/Main.swift.o",
+    "swiftmodule": "/Users/alex.torres/go/src/github.com/alexDtorres/workshop/internal/xc/Packages/Main/.build/x86_64-apple-macosx/debug/Main.build/Main~partial.swiftmodule",
+    "swift-dependencies": "/Users/alex.torres/go/src/github.com/alexDtorres/workshop/internal/xc/Packages/Main/.build/x86_64-apple-macosx/debug/Main.build/Main.swiftdeps"
+  }
+}
