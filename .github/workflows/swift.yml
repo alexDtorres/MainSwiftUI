@@ -5,11 +5,11 @@ on:
   pull_request:
     branches: [ main ]
 jobs:
-  smoke-test:
+  validate-quickly:
     runs-on: macos-latest
     steps:
     - uses: actions/checkout@v2
     - name: Resolve
-      run: swift package resolve -v
+      run: swift package resolve
     - name: Build
-      run: swift build -o MainSwiftUI.app
+      run: swift build
